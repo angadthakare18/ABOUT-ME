@@ -1,7 +1,7 @@
 # angadthakare18
 
 # 💫 About Me:
-🔭 I’m currently working on learning new skills<br>🤝 I’m looking for help with web development <br>🌱 I’m currently learning backend with node.js<br><br>⚡ Fun Fact: I enjoy turning ideas into functional applications and continuously optimizing my code.<br>
+🔭 I’m currently working on learning new skills<br>🤝 I’m looking for help with web development <br>🌱 I’m currently learning backend with node.js<br>⚡ Fun Fact: I enjoy turning ideas into functional applications and continuously optimizing my code.
 
 
 ## 🌐 Socials:
